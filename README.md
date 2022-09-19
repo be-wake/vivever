@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a Game**
 
-- 🌱 I’m currently learning **JavScript, Flutter**
+- 🌱 I’m currently learning **JavScript, Ruby, Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vivever](https://github.com/Vivever)
 
-- 💬 Ask me about **Java, Android**
+- 💬 Ask me about **Javascript, Ruby, Ruby on rails**
 
 - 📫 How to reach me **myselfvivek9@gmail.com**
 
